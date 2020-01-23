@@ -37,12 +37,12 @@ De volgende stappen moet je nemen voor dat je aan dit project kunt beginnen.
     * plaats de driver in de `src/test/resources` folder van het project
 * Start Eclipse druk op `open project from file system` en selecteer de map waar je het project heb uitgepakt 
 
-<img src="./resources/LoadProject.gif">
+<img style="border: 1px solid black;" src="./resources/LoadProject.gif">
 
 * Run de tests om te kijken of alle stappen correct zijn doorlopen;
 
 
-<img src="./resources/RunTests.gif">
+<img style="border: 1px solid black;" src="./resources/RunTests.gif">
 
 ## Tips
 
