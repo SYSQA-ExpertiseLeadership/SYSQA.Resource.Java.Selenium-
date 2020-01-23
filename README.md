@@ -2,10 +2,22 @@
 
 ## Doel
 
-Met deze resource proberen we twee dingen te berijken
+Met deze resource proberen we twee hoofd doelen te berijken:
 
 1. Het bieden van een begin project om de opstart fase van een nieuw test script te versnellen
-1. Het beschijven en uitleggen van één implementatie van het `Page-Object Model` om zo bij te dragen aan een overzichtelijk en onderhoudbaar Selenium Java project. 
+1. Het beschijven en uitleggen van één implementatie van het `Page-Object Model` om zo bij te dragen aan een overzichtelijk en onderhoudbaar Selenium Java project.
+
+Om deze doelen te berijken proberen we voor dit project een aantal uitgangspunten te hanteren:
+
+1. We blijven dicht bij de originele taal.
+1. We houden het bij de basis functionaliteiten 
+1. We zetten het zo op dat we eenvoudig kunnen uitbreiden en aanvullen
+1. We houden de setup en ontwikkel omgeving zo eenvoudig mogelijk
+
+Je zult hopelijk snel merken dat je dingen wil doen die niet aan dit project zijn toegevoegd. Wij hopen je genoeg kennis mee te hebben gegeven van de basis om deze dingen zelf (of met onze hulp) aan je framework toe te kunnen voegen.
+
+Dit doen we door de keuzes die we gemaakt hebben in dit project door middel van comment en dit begeleidende document uit te leggen en mocht je meer willen weten (of aanvullingen hebben) zoek dan voorall contact met ons.
+
 
 ## Belangrijk om te weten
 
