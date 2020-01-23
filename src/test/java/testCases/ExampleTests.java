@@ -11,7 +11,7 @@ import utilities.DriverManager;
 
 /* In deze file plaatsten we onze testcases.
  * Probeer je testcases op een logische manier over verschillende bestanden te verdelen 
- * (bijvoorbeeld alle tests voor één pagina bij elkaar).
+ * (bijvoorbeeld alle tests voor ï¿½ï¿½n pagina bij elkaar).
  * 
  * Iedere test methode bestaat uit drie stappen:
  * ARRANGE, ACT en ASSERT
