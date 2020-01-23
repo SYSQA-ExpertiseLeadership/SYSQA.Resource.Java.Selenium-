@@ -40,29 +40,30 @@ public class ExampleTests {
 
 	@Test
 	public void FirstTestCase() {
-		//Arrange
+		// Arrange
 		HomePage home = new HomePage();
-		
-		//Act
+
+		// Act
 		ResultPage page = home.Search("selenium");
-		
-		//Assert
-		assertEquals(page.NumberOfResults(),1373);
-		
+
+		// Assert
+		assertEquals(page.NumberOfResults(), 766);
+
 	}
-	
+
 	@Test
 	public void InconsistentTestCase() {
-		//Arrange
+		// Arrange
 		HomePage home = new HomePage();
-		
-		//Act
-		ResultPage page = home.Search("Test");		
-		
-		//Assert
-		assertEquals(page.NumberOfResults(),1373);
-		
+
+		// Act
+		ResultPage page = home.Search("Test");
+
+		// Assert
+		assertEquals(page.NumberOfResults(), 1373);
+
 	}
+
 	@After
 	public void endTest() {
 		DriverManager.Quit();
