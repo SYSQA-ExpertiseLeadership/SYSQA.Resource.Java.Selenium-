@@ -49,7 +49,7 @@ Nu kun je het project uitbreiden met je eigen testcases.
 
 Voor meer informatie over hoe het project werkt kun je kijken naar de comments die in de .java files geschreven zijn.
 
-Meer informatie over waarom bepaalde keuzes gemaakt zijn kun je vinden in de [wiki](https://github.com/SYSQA-ExpertiseLeadership/SYSQA.Resource.Java.Selenium/wiki). Mis je informatie of heb je specifieke vragen? Bel,Mail of maak een [github issue](https://github.com/SYSQA-ExpertiseLeadership/SYSQA.Resource.Java.Selenium/issues) aan we staan altijd open voor vragen en feedback.
+Meer informatie over waarom bepaalde keuzes gemaakt zijn kun je vinden in de [wiki](https://github.com/SYSQA-ExpertiseLeadership/SYSQA.Resource.Java.Selenium-/wiki). Mis je informatie of heb je specifieke vragen? Bel,Mail of maak een [github issue](https://github.com/SYSQA-ExpertiseLeadership/SYSQA.Resource.Java.Selenium-/issues) aan we staan altijd open voor vragen en feedback.
 
 ## Tips
 
